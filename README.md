@@ -55,3 +55,4 @@ The following fonts are freeware:
     15. GL-Tatishvili
     16. GL-Universiteti
     17. GL-Venuri
+    18. GL-Tatishvili-Metal

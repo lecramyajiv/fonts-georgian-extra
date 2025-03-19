@@ -17,6 +17,3 @@
 17. [GL-Tatishvili_Metal](http://fonts.geolab.edu.ge/font_download/Tatishvili_Metal.rar)
 18. [GL-Universiteti](http://fonts.geolab.edu.ge/font_download/Universiteti.rar)
 19. [GL-Venuri](http://fonts.geolab.edu.ge/font_download/Venuri.rar)
-
-
-https://web-fonts.ge/fonts/
