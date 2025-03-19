@@ -1,2 +1,22 @@
 1. [Fonts-bpg-georgian](http://deb.debian.org/debian/pool/main/f/fonts-bpg-georgian/fonts-bpg-georgian_2012.orig.tar.xz)
+2. [GL-Akademiuri](http://fonts.geolab.edu.ge/font_download/Akademiuri.rar)
+3. [GL-Italiuri](http://fonts.geolab.edu.ge/font_download/Italiuri.rar)
+4. [GL-EreklesStamba](http://fonts.geolab.edu.ge/font_download/EreklesStamba.rar)
+5. [GL-GiorgiNikoladze](http://fonts.geolab.edu.ge/font_download/GiorgiNikoladze.rar)
+6. [GL-Gordeziani](http://fonts.geolab.edu.ge/font_download/Gordeziani.rar)
+7. [GL-Kupiura](http://fonts.geolab.edu.ge/font_download/Kupiura.rar)
+8. [GL-Kirovi](http://fonts.geolab.edu.ge/font_download/Kirovi.rar)
+9. [GL-Lortkipanidze](http://fonts.geolab.edu.ge/font_download/Lortkipanidze.rar)
+10. [GL-Mkafio](http://fonts.geolab.edu.ge/font_download/Mkafio.rar)
+11. [GL-Moskovis](http://fonts.geolab.edu.ge/font_download/Moskovis.rar)
+12. [GL-Parizuli](http://fonts.geolab.edu.ge/font_download/Parizuli.rar)
+13. [GL-Saeklesio](http://fonts.geolab.edu.ge/font_download/Saeklesio.rar)
+14. [GL-Satitulo](http://fonts.geolab.edu.ge/font_download/Satitulo.rar)
+15. [GL-Tatishvili_12](http://fonts.geolab.edu.ge/font_download/Tatishvili_12.rar)
+16. [GL-Chonchkhi](http://fonts.geolab.edu.ge/font_download/Tatishvili_Chonchkhi.rar)
+17. [GL-Tatishvili_Metal](http://fonts.geolab.edu.ge/font_download/Tatishvili_Metal.rar)
+18. [GL-Universiteti](http://fonts.geolab.edu.ge/font_download/Universiteti.rar)
+19. [GL-Venuri](http://fonts.geolab.edu.ge/font_download/Venuri.rar)
+
+
 https://web-fonts.ge/fonts/

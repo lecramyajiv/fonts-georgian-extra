@@ -1,0 +1,99 @@
+GL-Akademiuri:
+
+Copyright (c) 2017 by Teimuraz batonishvili, Guram Muradov.
+All rights reserved.
+
+gl-chonchkhi:
+
+Copyright (c) 2017 by Tatishvili, Sopho Imnaishvili.
+All rights reserved.
+
+GL-Erekles-Stamba:
+
+Copyright © 2017 by Unknow Designer, Anna Dumbadze.
+All rights reserved.
+
+GL-Giorgi-Nikoladze:
+
+Copyright (c) 2017 by Giorgi Nikoladze, Irakli Jishkariani.
+All rights reserved.
+
+GL-Gordeziani:
+
+Copyright (c) 2016 by Beno Gordeziani, Aleksandre Charkviani.
+All rights reserved.
+
+GL-Italiuri:
+
+Copyright (c) 2017 by Unknow Designer, Ia Makhatadze.
+All rights reserved.
+
+GL-Kirovi:
+
+Copyright (c) 2017 by Unknow Designer, Eliso Kirvalidze.
+All rights reserved.
+
+GL-Kupiura:
+
+Copyright (c) 2017 by Unknow Designer, Davit Samsonidze.
+All rights reserved.
+
+GL-Lortkipanidze:
+
+Copyright (c) 2017 by Kirile Lortkipanidze, Sofiko Gogoladze.
+All rights reserved.
+
+GL-Mkafio:
+
+Copyright (c) 2017 by Gordeziani, Tatia Jonson.
+All rights reserved.
+
+GL-Moskovis
+
+Copyright (c) 2017 by Unknow Designer, Mariam Giguashvili.
+All rights reserved.
+
+GL-Parizuli:
+
+Copyright (c) 2017 by Unknow Designer, Davit Samsonidze.
+All rights reserved.
+
+GL-Saeklesio:
+
+Copyright (c) 2017 by Aleksandre Charkviani.
+All rights reserved.
+
+GL-Satitulo:
+
+Copyright (c) 2017 by Gordeziani, Mariam Merabishvili
+All rights reserved.
+
+GL-Tatishvili12:
+
+Copyright (c) 2017 by Natia Beruashvili.
+All rights reserved.
+
+GL-Chonchkhi:
+
+Copyright (c) 2017 by Tatishvili, Sopho Imnaishvili.
+All rights reserved.
+
+GL-TatishviliMetal:
+
+Copyright (c) 2017 by Vazha Simonishvili.
+All rights reserved.
+
+GL-Universiteti:
+
+Copyright (c) 2017 by Anton Dumbadze, Givi Berdzenishvili.
+All rights reserved.
+
+GL-Venuri:
+
+Copyright (c) 2017 by Mihkeil Khiphiani, Zaza Chugoshvili, Akaki Razmadze.
+All rights reserved.
+
+
+
+
+Vendor URL:www.geolab.edu.ge
