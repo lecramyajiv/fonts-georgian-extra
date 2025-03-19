@@ -93,7 +93,23 @@ GL-Venuri:
 Copyright (c) 2017 by Mihkeil Khiphiani, Zaza Chugoshvili, Akaki Razmadze.
 All rights reserved.
 
-
-
-
 Vendor URL:www.geolab.edu.ge
+
+The fonts were created as part of GeoLab’s course “Basics of Typeface Design and
+Font Engineering." In 2016, the course was held with the support
+of the #TsereKartulad #WriteInGeorgian campaign and GeoLab. As part of the course,
+a number of Georgian fonts found in old Georgian books and documents were
+restored and digitized. About 20 designers and their mentors worked on
+this project for a long time. As a result, anyone who wishes can
+download these font files and use them as they wish.
+
+The Fonts are freeware.
+
+Original Georgian text:
+
+
+ისტორია
+როგორ დაიბადა და განხორციელდა იდეა
+ამ გვერდზე წარმოდგენილი ფონტები შექმნილია GeoLab-ის „შრიფტის დიზაინის საფუძვლებისა და ფონტ-ინჟინერიის“ კურსის ფარგლებში. 2016 წელს აღნიშნული კურსი კამპანიის #წერექართულად და ჯეოლაბის ხელშეწყობით ჩატარდა. კურსის ფარგლებში აღდგა და გაციფრულდა, ძველ ქართულ წიგნებსა და დოკუმენტებში არსებული არაერთი ქართული შრიფტი. 20-მდე დიზაინერი და მათი მენტორები დიდი ხნის განმავლობაში მუშაობდნენ ამ პროექტის განსახორციელებლად. შედეგად ნებისმიერ მსურველს საშუალება აქვს, აღნიშნული ფონტ-ფაილები ჩამოტვირთოს და სურვილისამებრ გამოიყენოს.
+
+url:http://fonts.geolab.edu.ge/#history

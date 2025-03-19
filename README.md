@@ -1,5 +1,8 @@
 # fonts-georgian-extra
 
+The Georgian language is spoken and is the official
+language of Republic of Georgia. This collection
+contains font for the georgian language.
 
 The following font is under Open Source License:
 
@@ -37,19 +40,18 @@ The following fonts are freeware:
 2. Geolab fonts
     1. gl-akademiuri
     2. gl-chonchkhi
-    3. gl-dumbadze-garnituri
-    4. gl-erekles-stamba
-    5. gl-giorgi-nikoladze
-    6. gl-gordeziani
-    7. gl-italiuri
-    8. gl-kirovi
-    9. gl-kupiura
-    10. gl-lortkipanidze
-    11. gl-mkafio
-    12. gl-moskovis
-    13. gl-parizuli
-    14. gl-saeklesio
-    15. gl-satitulo
-    16. gl-tatishvili
-    17. gl-universiteti
-    18. gl-venuri
+    3. gl-erekles-stamba
+    4. gl-giorgi-nikoladze
+    5. gl-gordeziani
+    6. gl-italiuri
+    7. gl-kirovi
+    8. gl-kupiura
+    9. gl-lortkipanidze
+    10. gl-mkafio
+    11. gl-moskovis
+    12. gl-parizuli
+    13. gl-saeklesio
+    14. gl-satitulo
+    15. gl-tatishvili
+    16. gl-universiteti
+    17. gl-venuri
