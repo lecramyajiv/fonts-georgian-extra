@@ -38,20 +38,20 @@ The following font is under Open Source License:
 The following fonts are freeware:
 
 2. Geolab fonts
-    1. gl-akademiuri
-    2. gl-chonchkhi
-    3. gl-erekles-stamba
-    4. gl-giorgi-nikoladze
-    5. gl-gordeziani
-    6. gl-italiuri
-    7. gl-kirovi
-    8. gl-kupiura
-    9. gl-lortkipanidze
-    10. gl-mkafio
-    11. gl-moskovis
-    12. gl-parizuli
-    13. gl-saeklesio
-    14. gl-satitulo
-    15. gl-tatishvili
-    16. gl-universiteti
-    17. gl-venuri
+    1. GL-Akademiuri
+    2. GL-Chonchkhi
+    3. GL-Erekles-stamba
+    4. GL-Giorgi-nikoladze
+    5. GL-Gordeziani
+    6. GL-Italiuri
+    7. GL-Kirovi
+    8. GL-Kupiura
+    9. GL-Lortkipanidze
+    10. GL-Mkafio
+    11. GL-Moskovis
+    12. GL-Parizuli
+    13. GL-Saeklesio
+    14. GL-Satitulo
+    15. GL-Tatishvili
+    16. GL-Universiteti
+    17. GL-Venuri
